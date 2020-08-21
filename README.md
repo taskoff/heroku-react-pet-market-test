@@ -1,19 +1,7 @@
 # Pets Market 
 ## SPA for Announcements selling or free pets
 
-## Project setup:
-### restapi 
-### npm install
-### main dir
-### npm install
-
-## Compiles for development:
-
-### in RESTAPI in Project:
-### npm run start -> to start local server in port 4000 and use local MongoDB
-
-### in main dir:
-### npm run start -> to start project in localhost:3000/
+## Test for deploy to heroku
 
 ## Application structure
 ## Public part
