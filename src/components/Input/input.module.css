@@ -1,0 +1,28 @@
+.input-box {
+    font-size: 1.5em;
+    margin: 20px;
+}
+.form-input {
+   font-size: 0.8em;
+    line-height: 1.5em;
+   width: 396px;
+   /* border-radius: 2px; */
+}
+.form-label {
+    width: 100px;
+    color: rgb(60,60,60);
+   
+}
+.input-label {
+    text-align: start;
+}
+
+.price-input {
+    width: 50px
+}
+
+@media(max-width: 600px) {
+    .form-input {
+        width: 100%;
+    }
+}
